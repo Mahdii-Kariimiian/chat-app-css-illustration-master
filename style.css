@@ -304,7 +304,7 @@ img {
     align-items: center;
     justify-content: center;
     gap: initial;
-    margin-right: 240px;
+    margin-right: 130px;
     gap: 150px;
   }
 
@@ -313,7 +313,7 @@ img {
   }
 
   .whole::after {
-    left: -250px;
+    left: -400px;
     height: 90%;
     width: 800px;
     border-radius: 0 0 450px 600px;
@@ -326,13 +326,13 @@ img {
     right: -125px;
     bottom: 0;
     height: 90%;
-    width: 600px;
-    border-radius: 300px 200px 0 0;
+    width: 550px;
+    border-radius: 300px 180px 0 0;
     z-index: -1;
   }
 
   .heading {
-    font-size: 3rem;
+    font-size: 2rem;
     font-weight: 500;
     width: 400px;
     padding-right: 0;
@@ -343,9 +343,9 @@ img {
 
   .paragraph {
     min-width: 400px;
-    width: 680px;
-    font-size: 1.5rem;
+    width: 500;
+    font-size: .9rem;
     text-align: start;
-    line-height: 2.8rem;
+    line-height: 2rem;
   }
 }
