@@ -313,21 +313,21 @@ img {
   }
 
   .whole::after {
-    left: -400px;
+    left: -150px;
     height: 90%;
-    width: 800px;
-    border-radius: 0 0 450px 600px;
+    width: 550px;
+    border-radius: 0 0 400px 400px;
   
   }
   .whole::before {
     content: '';
     position: absolute;
     background-color: rgba(245, 245, 245, 0.47);
-    right: -125px;
+    right: -175px;
     bottom: 0;
     height: 90%;
-    width: 550px;
-    border-radius: 300px 180px 0 0;
+    width: 600px;
+    border-radius: 300px 300px 0 0;
     z-index: -1;
   }
 
@@ -347,5 +347,9 @@ img {
     font-size: .9rem;
     text-align: start;
     line-height: 2rem;
+  }
+
+  .article {
+    margin-top:0;
   }
 }
