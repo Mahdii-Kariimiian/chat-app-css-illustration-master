@@ -103,7 +103,7 @@ body {
     top:0;
     left:0;
     border-radius: 25px;
-    box-shadow: 0 0 40px rgb(225, 224, 224);
+    box-shadow: 0 0 40px rgba(62, 62, 62, 0.455);
     z-index: -2;
   }
 
@@ -297,7 +297,7 @@ img {
   line-height: 1.7rem;
 }
 
-@media (min-width:1000px) {
+@media (min-width:850px) {
   .whole {
     flex-direction: row;
     min-height: 100vh;
@@ -331,6 +331,8 @@ img {
     z-index: -1;
   }
 
+
+
   .heading {
     font-size: 2rem;
     font-weight: 500;
@@ -351,5 +353,6 @@ img {
 
   .article {
     margin-top:0;
+    transform: scale(.95);
   }
 }
