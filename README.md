@@ -16,10 +16,11 @@ Junior challenge at frontendmentors.io
 This app is a challenge to test my CSS skills by making a detailed chat page.
 
 ### Screenshot
+![chat app css ](https://github.com/Mahdii-Kariimiian/chat-app-css-illustration-master/assets/134393975/b68122c9-da1d-40f4-9358-9bd958eea95a)
 
 
 ### Links
--Netlify: https://serene-gaufre-312b76.netlify.app/
+- Netlify: https://serene-gaufre-312b76.netlify.app/
 - frontendmentors : https://www.frontendmentor.io/challenges/chat-app-css-illustration-O5auMkFqY
 
 ### Built with
@@ -32,8 +33,6 @@ This app is a challenge to test my CSS skills by making a detailed chat page.
 
 Here is a glimpse of what I used to build this mini project.
 ````
-
-
 .whole {
     flex-direction: row;
     min-height: 100vh;
